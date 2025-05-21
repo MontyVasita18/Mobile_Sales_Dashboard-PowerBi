@@ -74,6 +74,9 @@ The Mobile Sales Dashboard provides deep insights into mobile sales data, helpin
 
 ![Same Period Last Year](./Screenshot%202025-02-10%20152258.png)
 
+### Historical Sales Comparison
+![Historical Sales Comparison](./Screenshot%202025-02-10%20152258.png)
+
 ## 📬 Contact
 
 **Monty Kishan Vasita**
